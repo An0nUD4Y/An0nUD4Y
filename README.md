@@ -1,4 +1,4 @@
-### Hi there, I'm [Uday !](https://linktr.ee/its_udy) 👋
+<h2 align="left"> Hi there 👋, I'm Udayveer Singh</h1>
 
 
 <h3 align="center">A Computer Science (B.Tech) Undergraduate from National Institute Of Technology Sinagar, India</h3>
@@ -35,6 +35,8 @@
 
 <br />
 <br />
+
+<h3 align="left"> My Github Stats:</h3>
 <img src="https://github-profile-trophy.vercel.app/?username=an0nud4y&theme=dracula&column=3&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=an0nud4y&show_icons=true&count_private=true&theme=dark" alt="subeshb1" /></p>
