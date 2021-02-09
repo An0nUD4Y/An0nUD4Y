@@ -1,4 +1,5 @@
-<h2 align="left"> Hi there 👋, I'm Udayveer Singh</h1>
+<h2 align="left"> Hi there 👋, I'm Udayveer Singh <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
 
 
 <h3 align="center">A Computer Science (B.Tech) Undergraduate from National Institute Of Technology Sinagar, India</h3>
