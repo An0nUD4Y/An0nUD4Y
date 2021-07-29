@@ -12,6 +12,10 @@
 -  Other Than That, I read a Lot of Blogs/Writeups
 - 💬 Ask me Anything [here](https://linktr.ee/its_udy)
 
+<br>
+<img src=https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif width="300">
+</br>
+
 <h3 align="left"> Reach out To me:</h3>
 
 <a href="https://www.linkedin.com/in/an0nud4y">
