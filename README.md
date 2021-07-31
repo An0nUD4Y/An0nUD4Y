@@ -6,6 +6,7 @@
 <br />
 
 -  Another Cybersecurity Guy.
+-  Python Programmer.
 -  Doing Competitive Programming.
 -  Full stack Web Development.
 -  Part Time Bug Bounty Hunter.
