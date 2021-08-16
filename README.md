@@ -8,7 +8,7 @@
 -  Another Cybersecurity Guy.
 -  Python Programmer.
 -  Doing Competitive Programming.
--  Full stack Web Development.
+-  CTF Player at TryHackme & HackTheBox
 -  Part Time Bug Bounty Hunter.
 -  Other Than That, I read a Lot of Blogs/Writeups
 - 💬 Ask me Anything [here](https://linktr.ee/its_udy)
