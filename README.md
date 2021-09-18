@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center">A Computer Science (B.Tech) Undergraduate from National Institute Of Technology Sinagar, India</h3>
+<h3 align="center">A Computer Science (B.Tech) Undergraduate from National Institute Of Technology Srinagar, India</h3>
 <br />
 
 -  Another Cybersecurity Guy.
