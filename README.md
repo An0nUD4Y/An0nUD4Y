@@ -5,14 +5,17 @@
 <h3 align="center">A Computer Science (B.Tech) Undergraduate from National Institute Of Technology Srinagar, India</h3>
 <br />
 
+
 -  Another Cybersecurity Guy.
 -  Python Programmer.
 -  Doing Competitive Programming.
 -  CTF Player at TryHackme & HackTheBox
 -  Part Time Bug Bounty Hunter.
 -  Other Than That, I read a Lot of Blogs/Writeups
+-  Checkout My [Blogs/Writeups](https://an0nud4y.com)
 - 💬 Ask me Anything [here](https://linktr.ee/its_udy)
 
+<a href="https://twitter.com/an0nud4y"><img src="https://img.shields.io/twitter/follow/an0nud4y?label=Twitter&style=social" alt="Twitter"></a>
 <br>
 <img src=https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif width="300">
 </br>
@@ -43,7 +46,6 @@
 <br />
 
 <h3 align="left"> My Github Stats:</h3>
-<img src="https://github-profile-trophy.vercel.app/?username=an0nud4y&theme=dracula&column=3&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=an0nud4y&show_icons=true&count_private=true&theme=dark" alt="subeshb1" /></p>
 
