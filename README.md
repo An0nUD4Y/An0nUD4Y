@@ -6,14 +6,18 @@
 <br />
 
 
--  Another Cybersecurity Guy.
+-  Another Friendly Hacker.
 -  Python Programmer.
--  Doing Competitive Programming.
--  CTF Player at TryHackme & HackTheBox
+-  CTF Player at [TryHackme](https://tryhackme.com/p/an0nud4y) & [HackTheBox](https://app.hackthebox.com/profile/56298).
 -  Part Time Bug Bounty Hunter.
--  Other Than That, I read a Lot of Blogs/Writeups
+-  Striving Toward #PNPT #eWPT #eCPPT #CRTP #CRTE #CRTO #OSCP #OSWE #OSEP #OSED
+-  Reading a Lot of Blogs/Writeups
 -  Checkout My [Blogs/Writeups](https://an0nud4y.com)
-- 💬 Ask me Anything [here](https://linktr.ee/its_udy)
+-  Ask me Anything [here](https://linktr.ee/its_udy) 💬 
+
+<br>
+
+</br>
 
 <a href="https://twitter.com/an0nud4y"><img src="https://img.shields.io/twitter/follow/an0nud4y?label=Twitter&style=social" alt="Twitter"></a>
 <br>
