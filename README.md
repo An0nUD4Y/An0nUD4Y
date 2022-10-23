@@ -13,7 +13,7 @@
 -  Striving Toward #PNPT #eWPT #eCPPT #CRTP #CRTE #CRTO #OSCP #OSWE #OSEP #OSED
 -  Reading a Lot of Blogs/Writeups
 -  Checkout My [Blogs/Writeups](https://an0nud4y.com)
--  Ask me Anything [here](https://linktr.ee/its_udy) 💬 
+-  Ask me Anything [here](https://an0nud4y.com) 💬 
 
 <br>
 
