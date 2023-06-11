@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center">A Computer Science (B.Tech) Undergraduate from National Institute Of Technology Srinagar, India</h3>
+<h3 align="center">A Cybersecurity enthusiast and Computer Science (B.Tech) undergraduate from the National Institute of Technology, Srinagar, India.</h3>
 <br />
 
 
