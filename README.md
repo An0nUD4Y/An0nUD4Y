@@ -6,10 +6,10 @@
 <br />
 
 
--  Another Friendly Hacker.
--  Python Programmer.
+-  Another Friendly Hacker
+-  Red Teaming, VAPT, Web Security, Malware Analysis, Offsec Tools Dev
+-  Certifications: eJPT, CRTP, CRTE, CRTO(Soon), OSCP(Soon)
 -  CTF Player at [TryHackme](https://tryhackme.com/p/an0nud4y) & [HackTheBox](https://app.hackthebox.com/profile/56298).
--  Part Time Bug Bounty Hunter.
 -  Reading a Lot of Blogs/Writeups
 -  Checkout My [Blogs/Writeups](https://an0nud4y.com)
 -  Ask me Anything [here](https://an0nud4y.com) 💬 
