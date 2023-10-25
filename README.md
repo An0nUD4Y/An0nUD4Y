@@ -2,17 +2,16 @@
 
 
 
-<h3 align="center">A Cybersecurity enthusiast and Computer Science (B.Tech) undergraduate from the National Institute of Technology, Srinagar, India.</h3>
+<h3 align="center">Red Teamer and Computer Science (B.Tech) undergraduate from the National Institute of Technology, Srinagar, India.</h3>
 <br />
 
 
--  Another Friendly Hacker
--  Red Teaming, VAPT, Web Security, Malware Analysis, Offsec Tools Dev
--  Certifications: eJPT, CRTP, CRTE, CRTO, OSCP(soon), OSEP(soon), CRTL(soon)
+-  Red Teamer
+-  Current Certifications: eJPT, CRTP, CRTE, CRTO,
+-  Certifications Path: OSCP(soon), OSEP(soon), CRTL(soon)
+-  Learning Malware Development and Offensive Tool Development
 -  CTF Player at [TryHackme](https://tryhackme.com/p/an0nud4y) & [HackTheBox](https://app.hackthebox.com/profile/56298).
--  Reading a Lot of Blogs/Writeups
--  Checkout My [Blogs/Writeups](https://an0nud4y.com)
--  Ask me Anything [here](https://an0nud4y.com) 💬 
+-  Blog : https://an0nud4y.com
 
 <br>
 
