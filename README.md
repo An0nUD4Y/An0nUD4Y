@@ -8,7 +8,7 @@
 
 -  Another Friendly Hacker
 -  Red Teaming, VAPT, Web Security, Malware Analysis, Offsec Tools Dev
--  Certifications: eJPT, CRTP, CRTE, CRTO(Soon), OSCP(Soon)
+-  Certifications: eJPT, CRTP, CRTE, CRTO, OSCP(soon), OSEP(soon), CRTL(soon)
 -  CTF Player at [TryHackme](https://tryhackme.com/p/an0nud4y) & [HackTheBox](https://app.hackthebox.com/profile/56298).
 -  Reading a Lot of Blogs/Writeups
 -  Checkout My [Blogs/Writeups](https://an0nud4y.com)
