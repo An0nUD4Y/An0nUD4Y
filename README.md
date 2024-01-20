@@ -17,7 +17,7 @@
 
 </br>
 
-<a href="https://twitter.com/an0nud4y"><img src="https://img.shields.io/twitter/follow/an0nud4y?label=Twitter&style=social" alt="Twitter"></a>
+<a href="https://twitter.com/m4lici0u5"><img src="https://img.shields.io/twitter/follow/m4lici0u5?label=Twitter&style=social" alt="Twitter"></a>
 <br>
 <img src=https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif width="300">
 </br>
