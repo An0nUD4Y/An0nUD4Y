@@ -28,7 +28,7 @@
   <img align="left" alt="Udayveer Singh | Linkedin" width="20px" src="https://raw.githubusercontent.com/An0nUD4Y/An0nUD4Y/master/assets/linkedin.svg" />
 </a>
 
-<a href="https://twitter.com/an0nud4y">
+<a href="https://twitter.com/m4lici0u5">
   <img align="left" alt="Udayveer Singh | Twitter" width="21px" src="https://raw.githubusercontent.com/An0nUD4Y/An0nUD4Y/master/assets/twitter.svg" />
 </a>
 
