@@ -8,7 +8,7 @@
 
 -  Red Teamer
 -  Current Certifications: eJPT, CRTP, CRTE, CRTO,
--  Certifications Path: OSCP(soon), OSEP(soon), CRTL(soon)
+-  Certifications Path: CRTO2(soon), OSEP(soon)
 -  Learning Malware Development and Offensive Tool Development
 -  CTF Player at [TryHackme](https://tryhackme.com/p/an0nud4y) & [HackTheBox](https://app.hackthebox.com/profile/56298).
 -  Blog : https://an0nud4y.com
