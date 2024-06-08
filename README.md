@@ -49,5 +49,4 @@
 
 <h3 align="left"> My Github Stats:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=an0nud4y&show_icons=true&count_private=true&theme=dark" alt="subeshb1" /></p>
-
+```math \ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url(‘https://raw.githubusercontent.com/b4k3d/readme.md/main/4444.png');]{x0000}$}
