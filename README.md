@@ -11,7 +11,7 @@
 -  Certifications Path: CRTO2(soon), OSEP(soon)
 -  Learning Malware Development and Offensive Tool Development
 -  CTF Player at [TryHackme](https://tryhackme.com/p/an0nud4y) & [HackTheBox](https://app.hackthebox.com/profile/56298).
--  Blog : https://an0nud4y.com
+-  Blog : http://m4lici0u5.com | http://an0nud4y.com
 
 <br>
 
