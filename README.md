@@ -47,6 +47,3 @@
 <br />
 <br />
 
-<h3 align="left"> My Github Stats:</h3>
-
-```math \ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url(‘https://raw.githubusercontent.com/b4k3d/readme.md/main/4444.png');]{x0000}$}
