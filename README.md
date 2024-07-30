@@ -2,7 +2,7 @@
 
 
 
--  Red Team Operator
+-  Red Team Operator and Offensive Security Researcher
 -  Writing Malwares and Offensive Tools
 -  Certifications: eJPT, CRTP, CRTE, CRTO, CRTO2
 -  Working on : OSEP, CARTP, CARTE, CRTM, OSWP
