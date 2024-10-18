@@ -4,8 +4,8 @@
 
 -  Red Team Operator and Offensive Security Researcher
 -  Writing Malwares and Offensive Tools
--  Certifications: eJPT, CRTP, CRTE, CRTO, CRTO2
--  Working on : OSEP, CARTP, CARTE, CRTM, OSWP
+-  Certifications: eJPT, CRTP, CRTE, CRTO, CRTL, CESP(ADCS)
+-  Working on : OSWP, OSEP, CARTP, CARTE, CRTM
 -  CTF Player at [TryHackme](https://tryhackme.com/p/an0nud4y) & [HackTheBox](https://app.hackthebox.com/profile/56298).
 -  Blog : [http://m4lici0u5.com](http://m4lici0u5.com) | [http://an0nud4y.com](http://m4lici0u5.com)
 
