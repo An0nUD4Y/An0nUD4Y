@@ -4,8 +4,8 @@
 
 -  Red Team Operator and Offensive Security Researcher
 -  Writing Malwares and Offensive Tools
--  Certifications: eJPT, CRTP, CRTE, CRTO, CRTL, CESP(ADCS)
--  Upcoming : OSWP, OSEP, CARTP, CARTE, CRTM
+-  Certifications: CRTL, OSEP, OSWP, CRTO, CRTE, CRTP, CESP(ADCS), eJPT
+-  Upcoming : CARTP, CARTE, CRTM, OSED, OSWE, OSCE3
 -  Blog : [http://m4lici0u5.com](http://m4lici0u5.com) | [http://an0nud4y.com](http://m4lici0u5.com)
 
 <br>
